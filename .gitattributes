@@ -1,0 +1,9 @@
+.vs/MadBoss/v17/Browse.VC.db filter=lfs diff=lfs merge=lfs -text
+.vs/MadBoss/v17/ipch/27d32afb37a881e2.ipch filter=lfs diff=lfs merge=lfs -text
+.vs/MadBoss/v17/ipch/8a16bcc7f47a5556.ipch filter=lfs diff=lfs merge=lfs -text
+.vs/MadBoss/v17/ipch/d946317a23495aca.ipch filter=lfs diff=lfs merge=lfs -text
+Content/Environment/OfficeScene/Maps/tests_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/OfficeSpace/Maps/Demonstration_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/QA_Office/Maps/QA_Office_DemoMap_02_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Environment/QA_Office/Maps/QA_Office_DemoMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Intermediate/ProjectFiles/UE5.vcxproj filter=lfs diff=lfs merge=lfs -text
